@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヤミヤダ",
+  "base_artist": "Gero",
+  "createdAt": "2025-12-02T15:20:06.742862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヤミヤダ",
+      "artist": "Gero",
+      "has_synced": true,
+      "path": "select/01_ヤミヤダ_Gero.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヤミヤダ",
+      "artist": "Gero",
+      "has_synced": false,
+      "path": "select/pl_01_ヤミヤダ_Gero.txt"
+    }
+  ]
+}
